@@ -56,6 +56,8 @@ SMALLER SUB HEAD
 
 LINK 1
 
+<a href="http://www.lonelyplanet.com/saudi-arabia/riyadh">Lonely Planet</a>
+
 `Lonely Planet`
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
@@ -63,3 +65,4 @@ LINK 2
 
 `Wikipedia`
 `http://en.wikipedia.org/wiki/Riyadh`
+<a href="http://en.wikipedia.org/wiki/Riyadh">Wikipedia</a>
